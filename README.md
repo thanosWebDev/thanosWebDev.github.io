@@ -1,2 +1,2 @@
 # thanosWebDev.github.io
-Personal user page - placeholder
+Personal user page - placeholder for future use
